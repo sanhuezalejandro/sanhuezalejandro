@@ -139,6 +139,9 @@
 <a href="https://plotly.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/> 
 </a>
+<a href="https://plotly.com/dash/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Dash-3E4E88?style=for-the-badge&logo=plotly&logoColor=white" alt="Dash"/>
+</a>
 <a href="https://www.streamlit.io/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/> 
 </a>

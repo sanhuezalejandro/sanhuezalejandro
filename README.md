@@ -99,7 +99,7 @@
   <!-- Business Intelligence (BI) -->
 <strong>Business Intelligence (BI):</strong><br>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> 
+  <img src="https://seeklogo.com/images/P/power-bi-logo-1F3A1217D0-seeklogo.com.png" alt="Power BI"  height="20"/> 
 </a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
   <img src="https://seeklogo.com/images/T/tableau-software-logo-654D12C9BF-seeklogo.com.png" alt="Tableau"  height="20"/> 

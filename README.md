@@ -11,6 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
 <a href="https://linkedin.com/in/sanhuezalejandro" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="sanhuezalejandro" height="30" width="40" /></a>
 </p>
 
@@ -27,7 +30,7 @@
 </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
+</a>
 <!-- Databases -->
 <strong>| Databases |</strong><br>
 <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
@@ -137,6 +140,3 @@
 </a>
 
 </p>
-
-
-

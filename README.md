@@ -35,6 +35,10 @@
   <a href="https://www.credly.com/badges/90a9537c-773f-4793-a73a-4086c52b2930" target="_blank" rel="noopener noreferrer">
     <img src="https://images.credly.com/size/220x220/images/7fd5a03e-823f-4449-af43-59afe528f4ee/image.png" alt="New Certificate" width="100" height="100">
   </a>
+  <a href="https://www.credly.com/badges/cefa89f5-c448-4b13-8dd7-61d532afd90d" target="_blank" rel="noopener noreferrer">
+  <img src="https://images.credly.com/size/220x220/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png" alt="Python for Data Science and AI Certificate" width="100" height="100">
+</a>
+
 </p>
 
 

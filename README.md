@@ -1,7 +1,9 @@
 ![MasterHead](https://github.com/sanhuezalejandro/img/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Alejandro Sanhueza</h1>
 <h3 align="center">A passionate Data Engineer/Data Scientist from Santiago, Chile 🇨🇱</h3>
-<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/644659/screenshots/1920053/media/189931803af24fea969fe9d0b6631431.gif">
+<div align="center">
+  <img alt="coding" width="400" src="https://cdn.dribbble.com/users/644659/screenshots/1920053/media/189931803af24fea969fe9d0b6631431.gif">
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

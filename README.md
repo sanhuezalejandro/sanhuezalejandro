@@ -107,6 +107,10 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</a>
+
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/> 
 </a>
@@ -119,9 +123,7 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv"/> 
 </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn"/> 
-</a>
+
 
 <!-- Business Intelligence (BI) -->
 <strong>| Business Intelligence (BI) |</strong><br>
@@ -138,6 +140,9 @@
 <strong>| Data Visualization |</strong><br>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/> 
+</a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn"/> 
 </a>
 <a href="https://plotly.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/> 

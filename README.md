@@ -105,7 +105,7 @@
   <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/> 
 </a>
 <a href="https://looker.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" alt="Looker" width="40" height="40"/> 
+  <img src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" alt="Looker" width="40" /> 
 </a>
   <br>
   <!-- Other Tools -->

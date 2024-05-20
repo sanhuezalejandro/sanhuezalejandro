@@ -29,7 +29,7 @@
     <img src="https://images.credly.com/size/220x220/images/5d33407f-063c-41e1-ab97-79603bd33095/Professional_Certificate_-_AI_Engineering.png" alt="AI Engineering Certificate" width="150" height="150">
   </a>
    <a href="https://www.credly.com/badges/904f1f8e-4d24-4e71-adf6-c6ad32ca08ca" target="_blank" rel="noopener noreferrer">
-    <img src="https://images.credly.com/images/1dc40257-c856-4e6b-9a92-29be936a9e7c/image.png" alt="Additional Certificate" width="50" height="50">
+    <img src="https://images.credly.com/images/1dc40257-c856-4e6b-9a92-29be936a9e7c/image.png" alt="Additional Certificate" width="100" height="100">
   </a>
 </p>
 

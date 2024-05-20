@@ -44,6 +44,9 @@
 <a href="https://www.credly.com/badges/4832e10e-05a1-4cae-b726-22de9e500343" target="_blank" rel="noopener noreferrer">
   <img src="https://images.credly.com/size/220x220/images/5e544cd5-d368-4f16-8348-5abfd71bd049/IBM_AI_-Deep_Learning_Essentials_with_Keras.png" alt="IBM AI - Deep Learning Essentials with Keras Certificate" width="100" height="100">
 </a>
+<a href="https://www.credly.com/badges/895e1475-288a-44ee-bd2b-40d666d973ad" target="_blank" rel="noopener noreferrer">
+  <img src="https://images.credly.com/size/220x220/images/6be9e507-9096-4e18-aef8-e60893ed36c6/IBM_AI_-Deep_Neural_Networks_with_PyTorch.png" alt="IBM AI - Deep Neural Networks with PyTorch Certificate" width="150" height="270">
+</a>
 
 
 

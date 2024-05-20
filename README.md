@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Sanhueza</h1>
 <h3 align="center">A passionate Data Engineer/Data Scientist from Santiago, Chile 🇨🇱</h3>
 <div align="center">
-  <img alt="coding" width="400" src="https://cdn.dribbble.com/users/644659/screenshots/1920053/media/189931803af24fea969fe9d0b6631431.gif">
+  <img alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBlZ2V6MjJ5azRtYm9qMHVmd2M0cDVydjZzZzFsNDg1a2U5aWY1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7c8QeB0VMddFOuu4iR/giphy.gif">
 </div>
 
 <h3 align="left">Connect with me:</h3>

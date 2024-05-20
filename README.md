@@ -19,9 +19,14 @@
 
 <h3 align="left">Certificates:</h3>
 <p align="left">
-<a href="https://www.credly.com/badges/a860857e-c25d-43a7-b347-95b7282b1454" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/size/220x220/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png" alt="Data Science Certificate" width="150" height="150">
-</a>
+  <a href="https://www.credly.com/badges/a860857e-c25d-43a7-b347-95b7282b1454" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 10px;">
+    <img src="https://images.credly.com/size/220x220/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png" alt="Data Science Certificate" width="150" height="150">
+  </a>
+  <a href="https://www.credly.com/badges/2476e36e-2295-464b-bb93-2d6d5b0e5c0c" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 10px;">
+    <img src="https://images.credly.com/size/220x220/images/462503e9-d76e-47ce-b82e-1d7df909ba70/Professional_Certificate_-_Data_Analyst.png" alt="Data Analyst Certificate" width="150" height="150">
+  </a>
+</p>
+
 
 
 <h3 align="left">Skills:</h3>

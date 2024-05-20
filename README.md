@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://drive.google.com/file/d/1_RBFAOCuH4Qtq4Sxt_5QoqjWmOfbWZj9/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Alejandro Sanhueza</h1>
 <h3 align="center">A passionate Data Engineer/Data Scientist from Chile 🇨🇱</h3>
 

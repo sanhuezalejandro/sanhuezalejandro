@@ -102,7 +102,7 @@
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> 
 </a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/> 
+  <img src="https://seeklogo.com/images/T/tableau-software-logo-654D12C9BF-seeklogo.com.png" alt="Tableau" width="40" height="40"/> 
 </a>
 <a href="https://looker.com/" target="_blank" rel="noreferrer"> 
   <img src="https://seeklogo.com/images/G/google-looker-logo-C8DD467B30-seeklogo.com.png" alt="Looker" height="20" /> 

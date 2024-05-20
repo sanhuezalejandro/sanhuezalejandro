@@ -18,7 +18,7 @@
 <p align="left">
 
 <!-- Programming Languages -->
-<strong>| Programming Languages |</strong><br>
+<strong>Programming Languages:</strong>
 <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a>
@@ -28,9 +28,9 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 </a> 
-<br>
+
 <!-- Databases -->
-<strong>| Databases |</strong><br>
+<strong>Databases:</strong>
 <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> 
 </a> 
@@ -49,9 +49,9 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
 </a>
-<br>
+
 <!-- Big Data Technologies -->
-<strong>| Big Data Technologies |</strong><br>
+<strong>Big Data Technologies:</strong>
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> 
 </a>
@@ -64,18 +64,18 @@
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;">
   <img src="https://upload.vectorlogo.zone/logos/apache_airflow/images/3ace832a-ef3c-489d-a0a2-b8a9ad16423f.svg" alt="airflow" width="40" height="40"/>
 </a>
-<br>
+
 <!-- Cloud Platforms -->
-<strong>| Cloud Platforms |</strong><br>
+<strong>Cloud Platforms:</strong>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
 </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
 </a>
-<br>
+
 <!-- Machine Learning & Data Science -->
-<strong>| Machine Learning & Data Science |</strong><br>
+<strong>Machine Learning & Data Science:</strong>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
 </a>
@@ -94,9 +94,9 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
 </a>
-<br>
+
 <!-- Business Intelligence (BI) -->
-<strong>| Business Intelligence (BI) |</strong><br>
+<strong>Business Intelligence (BI):</strong>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://seeklogo.com/images/P/power-bi-logo-1F3A1217D0-seeklogo.com.png" alt="Power BI" height="20"/> 
 </a>
@@ -106,9 +106,9 @@
 <a href="https://looker.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://seeklogo.com/images/G/google-looker-logo-C8DD467B30-seeklogo.com.png" alt="Looker" height="20"/> 
 </a>
-<br>
+
 <!-- Data Visualization -->
-<strong>| Data Visualization |</strong><br>
+<strong>Data Visualization:</strong>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" width="40" height="40"/> 
 </a>
@@ -118,9 +118,9 @@
 <a href="https://www.streamlit.io/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://www.streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="40" height="40"/> 
 </a>
-<br>
+
 <!-- Other Tools -->
-<strong>| Other Tools |</strong><br>
+<strong>Other Tools:</strong>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 </a>
@@ -138,6 +138,3 @@
 </a>
 
 </p>
-
-
-

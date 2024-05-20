@@ -37,7 +37,7 @@
 </a> 
 
 <!-- Databases -->
-<strong>| Databases |</strong><br>
+<strong>| SQL Databases |</strong><br>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> 
 </a>
@@ -53,6 +53,8 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/> 
 </a>
+
+<strong>| NoSQL Databases |</strong><br>
 <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="cassandra"/> 
 </a> 

@@ -66,6 +66,9 @@
 <a href="https://www.credly.com/badges/6ad93019-67bd-4a35-b14d-182c5ccdf9d2" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/sanhuezalejandro/img/blob/main/data-warehousing-and-bi-analytics-essentials.png" alt="Certificate" width="100" height="100">
 </a>
+<a href="https://www.credly.com/badges/29cfbfff-a7df-43a6-864b-3fb863c025b2" target="_blank" rel="noopener noreferrer">
+  <img src="https://images.credly.com/size/220x220/images/76326afb-199d-4250-a74f-01bc86dda118/Cognitive_Class_-_Data_Visual_w_Python.png" alt="Data Visualization with Python Certificate" width="100" height="100">
+</a>
 
 
 

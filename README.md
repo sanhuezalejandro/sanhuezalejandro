@@ -129,7 +129,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" width="40" height="40"/> 
 </a>
 <a href="https://plotly.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Plotly_logo.svg" alt="Plotly" width="40" height="40"/> 
+  <img src="https://icon.icepanel.io/Technology/svg/Ploty.svg" alt="Plotly" width="40" height="40"/> 
 </a>
 
 </p>

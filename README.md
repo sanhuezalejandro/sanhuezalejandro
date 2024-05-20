@@ -110,11 +110,15 @@
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/> 
-</a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> 
+</a>
+
+<a href="https://keras.io/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+</a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/> 
 </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/> 

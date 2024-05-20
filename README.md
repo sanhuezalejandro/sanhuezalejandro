@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1aSjHMOXv31Gz43TIuAQpvhy11hb7dYMP/view?usp=sharing)
+[![MasterHead](https://github.com/sanhuezalejandro/img/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Alejandro Sanhueza</h1>
 <h3 align="center">A passionate Data Engineer/Data Scientist from Chile 🇨🇱</h3>
 

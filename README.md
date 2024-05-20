@@ -143,3 +143,18 @@
 </a>
 
 </p>
+
+<h3 align="left">Skills:</h3>
+<p align="left">
+
+<!-- Programming Languages -->
+<strong>| Programming Languages |</strong>
+<a href="https://www.python.org" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> 
+</a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/> 
+</a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java"/> 
+</a> 

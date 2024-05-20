@@ -104,6 +104,9 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/> 
 </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/> 
 </a>

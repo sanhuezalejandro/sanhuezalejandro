@@ -17,8 +17,11 @@
   </a>
 </div>
 
-<!-- <a href="https://linkedin.com/in/sanhuezalejandro" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="sanhuezalejandro" height="30" width="40" /></a>
-</p> -->
+<h3 align="left">Certificates:</h3>
+<p align="left">
+<a href="https://www.credly.com/badges/a860857e-c25d-43a7-b347-95b7282b1454" target="_blank" rel="noopener noreferrer">
+  <img src="https://images.credly.com/size/220x220/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png" alt="Data Science Certificate" width="150" height="150">
+</a>
 
 
 <h3 align="left">Skills:</h3>
@@ -150,8 +153,4 @@
 
 </p>
 
-<!-- Certificates -->
-<strong>| Certificates |</strong><br>
-<a href="https://www.credly.com/badges/a860857e-c25d-43a7-b347-95b7282b1454" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/size/220x220/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png" alt="Data Science Certificate" width="150" height="150">
-</a>
+

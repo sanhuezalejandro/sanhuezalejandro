@@ -30,7 +30,7 @@
   </a><br>
 
 <a href="https://www.credly.com/badges/904f1f8e-4d24-4e71-adf6-c6ad32ca08ca" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/images/1dc40257-c856-4e6b-9a92-29be936a9e7c/image.png" alt="Additional Certificate" width="100" height="100" style="background-color: transparent;">
+  <img src="https://github.com/sanhuezalejandro/img/blob/main/generative-ai-essentials-for-data-science%20(1).png" alt="Additional Certificate" width="100" height="100" style="background-color: transparent;">
 </a>
 <a href="https://www.credly.com/badges/90a9537c-773f-4793-a73a-4086c52b2930" target="_blank" rel="noopener noreferrer">
   <img src="https://images.credly.com/size/220x220/images/7fd5a03e-823f-4449-af43-59afe528f4ee/image.png" alt="New Certificate" width="100" height="100" style="background-color: transparent;">

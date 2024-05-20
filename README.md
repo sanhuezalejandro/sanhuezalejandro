@@ -152,6 +152,6 @@
 
 <!-- Certificates -->
 <strong>| Certificates |</strong><br>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a860857e-c25d-43a7-b347-95b7282b1454" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/a860857e-c25d-43a7-b347-95b7282b1454" target="_blank" rel="noopener noreferrer">
+  <img src="https://images.credly.com/size/220x220/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png" alt="Data Science Certificate" width="150" height="150">
+</a>

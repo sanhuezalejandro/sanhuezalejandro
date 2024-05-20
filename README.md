@@ -107,6 +107,18 @@
 <a href="https://looker.com/" target="_blank" rel="noreferrer"> 
   <img src="https://seeklogo.com/images/G/google-looker-logo-C8DD467B30-seeklogo.com.png" alt="Looker" height="20" /> 
 </a>
+<br>
+  <!-- Other Tools -->
+  <strong>Data viz:</strong><br>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" width="40" height="40"/> 
+</a>
+<a href="https://plotly.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://icon.icepanel.io/Technology/svg/Ploty.svg" alt="Plotly" width="40" height="40"/> 
+</a>
+<a href="https://www.streamlit.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="40" height="40"/> 
+</a>
   <br>
   <!-- Other Tools -->
   <strong>Other Tools:</strong><br>
@@ -125,15 +137,7 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
   <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" width="40" height="40"/> 
 </a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" width="40" height="40"/> 
-</a>
-<a href="https://plotly.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://icon.icepanel.io/Technology/svg/Ploty.svg" alt="Plotly" width="40" height="40"/> 
-</a>
-<a href="https://www.streamlit.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="40" height="40"/> 
-</a>
+
 </p>
 
 

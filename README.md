@@ -113,7 +113,6 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> 
 </a>
-
 <a href="https://keras.io/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;">
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
 </a>
@@ -126,7 +125,6 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv"/> 
 </a>
-
 
 <!-- Business Intelligence (BI) -->
 <strong>| Business Intelligence (BI) |</strong><br>

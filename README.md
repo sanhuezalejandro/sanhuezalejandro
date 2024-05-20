@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/sanhuezalejandro/img/blob/main/github_banner.png)
 <body>
-  <h1 align="center">Hey!👋 Nice to see you.</h1>
- <h3 align="center">I'm Alejandro Sanhueza, a passionate Data Engineer/Data Scientist from <span style="font-weight: bold !important;">Santiago, Chile</span> 🇨🇱</h3>
+  <h1 align="center">Hey!👋 Nice to see you. </h1>
+  <h3 align="center">I'm Alejandro Sanhueza, a passionate Data Engineer/Data Scientist from <strong>Santiago, Chile</strong> 🇨🇱</h3>
   <div class="center">
     <img alt="coding" width="278" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBlZ2V6MjJ5azRtYm9qMHVmd2M0cDVydjZzZzFsNDg1a2U5aWY1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7c8QeB0VMddFOuu4iR/giphy.gif">
     <img alt="giphy" width="278" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWg4MzhxaDU5bXR5YzB5eDN5NXRzZW01Y2Z2bmdlMHZ5ZGg4a2VsbSZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif">
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sanhuezalejandro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanhuezalejandro" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sanhuezalejandro" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="sanhuezalejandro" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

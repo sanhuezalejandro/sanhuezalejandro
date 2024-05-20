@@ -12,8 +12,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://linkedin.com/in/sanhuezalejandro" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
+
 <a href="https://linkedin.com/in/sanhuezalejandro" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="sanhuezalejandro" height="30" width="40" /></a>
 </p>
 

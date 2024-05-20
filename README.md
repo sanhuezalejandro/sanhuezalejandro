@@ -47,6 +47,9 @@
 <a href="https://www.credly.com/badges/895e1475-288a-44ee-bd2b-40d666d973ad" target="_blank" rel="noopener noreferrer">
   <img src="https://images.credly.com/size/220x220/images/6be9e507-9096-4e18-aef8-e60893ed36c6/IBM_AI_-Deep_Neural_Networks_with_PyTorch.png" alt="IBM AI - Deep Neural Networks with PyTorch Certificate" width="100" height="100">
 </a>
+<a href="https://www.credly.com/badges/f8786dfa-5f1c-413b-b10a-ddda2fefcfae" target="_blank" rel="noopener noreferrer">
+  <img src="https://images.credly.com/size/220x220/images/4e2d2e18-e3ea-408d-b815-819bc58b1143/IBM_AI_-Deep_Learning_with_Tensorflow.png" alt="Deep Learning with Tensorflow Certificate" width="100" height="100">
+</a>
 <a href="https://www.credly.com/badges/c905b8cc-cf75-414b-85a3-5765a41eea94" target="_blank" rel="noopener noreferrer">
   <img src="https://images.credly.com/size/220x220/images/130907f0-5b9f-47f3-ba63-073508050096/Computer_Vision_and_and_Image_Processing_Essentials.png" alt="Computer Vision and Image Processing Essentials Certificate" width="100" height="100">
 </a><br>

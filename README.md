@@ -131,7 +131,9 @@
 <a href="https://plotly.com/" target="_blank" rel="noreferrer"> 
   <img src="https://icon.icepanel.io/Technology/svg/Ploty.svg" alt="Plotly" width="40" height="40"/> 
 </a>
-
+<a href="https://www.streamlit.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="40" height="40"/> 
+</a>
 </p>
 
 

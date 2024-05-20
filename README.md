@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/sanhuezalejandro/img/blob/main/github_banner.png)
 <body>
   <h1 align="center">Hey!👋 Nice to see you. </h1>
-  <h3 align="center">I'm Alejandro Sanhueza, a passionate Data Engineer/Data Scientist from <strong>Santiago, Chile</strong> 🇨🇱</h3>
+  <h3 align="center">I'm Alejandro Sanhueza, a data enthusiast! from <strong>Santiago, Chile</strong> 🇨🇱</h3>
   <div class="center">
     <img alt="coding" width="278" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBlZ2V6MjJ5azRtYm9qMHVmd2M0cDVydjZzZzFsNDg1a2U5aWY1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7c8QeB0VMddFOuu4iR/giphy.gif">
     <img alt="giphy" width="278" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWg4MzhxaDU5bXR5YzB5eDN5NXRzZW01Y2Z2bmdlMHZ5ZGg4a2VsbSZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif">

@@ -25,7 +25,7 @@
 <p align="left">
 
 <!-- Programming Languages -->
-<strong>| Programming Languages |</strong>
+<strong>| Programming Languages |</strong><br>
 <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> 
 </a>
@@ -37,7 +37,7 @@
 </a> 
 
 <!-- Databases -->
-<strong>| Databases |</strong>
+<strong>| Databases |</strong><br>
 <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="cassandra"/> 
 </a> 
@@ -58,7 +58,7 @@
 </a>
 
 <!-- Big Data Technologies -->
-<strong>| Big Data Technologies |</strong>
+<strong>| Big Data Technologies |</strong><br>
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white" alt="hadoop"/> 
 </a>
@@ -73,7 +73,7 @@
 </a>
 
 <!-- Cloud Platforms -->
-<strong>| Cloud Platforms |</strong>
+<strong>| Cloud Platforms |</strong><br>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/> 
 </a>
@@ -82,7 +82,7 @@
 </a>
 
 <!-- Machine Learning & Data Science -->
-<strong>| Machine Learning & Data Science |</strong>
+<strong>| Machine Learning & Data Science |</strong><br>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/> 
 </a>
@@ -103,7 +103,7 @@
 </a>
 
 <!-- Business Intelligence (BI) -->
-<strong>| Business Intelligence (BI) |</strong>
+<strong>| Business Intelligence (BI) |</strong><br>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI"/> 
 </a>

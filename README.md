@@ -64,7 +64,7 @@
 
 
 <!-- Big Data Technologies -->
-<strong>| Big Data Technologies |</strong><br>
+<strong>| Big Data & ETL Technologies |</strong><br>
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white" alt="hadoop"/> 
 </a>

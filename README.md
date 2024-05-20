@@ -30,10 +30,10 @@
   </a><br>
 
 <a href="https://www.credly.com/badges/904f1f8e-4d24-4e71-adf6-c6ad32ca08ca" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/sanhuezalejandro/img/blob/main/generative-ai-essentials-for-data-science%20(1).png" alt="Additional Certificate" width="100" height="100" style="background-color: transparent;">
+  <img src="https://github.com/sanhuezalejandro/img/blob/main/generative-ai-essentials-for-data-science%20(1).png" alt="Additional Certificate" width="100" height="100">
 </a>
 <a href="https://www.credly.com/badges/90a9537c-773f-4793-a73a-4086c52b2930" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/size/220x220/images/7fd5a03e-823f-4449-af43-59afe528f4ee/image.png" alt="New Certificate" width="100" height="100" style="background-color: transparent;">
+  <img src="https://images.credly.com/size/220x220/images/7fd5a03e-823f-4449-af43-59afe528f4ee/image.png" alt="New Certificate" width="100" height="100">
 </a>
 <a href="https://www.credly.com/badges/cefa89f5-c448-4b13-8dd7-61d532afd90d" target="_blank" rel="noopener noreferrer">
   <img src="https://images.credly.com/size/220x220/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png" alt="Python for Data Science and AI Certificate" width="100" height="100">

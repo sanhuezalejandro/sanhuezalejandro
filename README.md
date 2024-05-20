@@ -49,7 +49,8 @@
 </a>
 <a href="https://www.credly.com/badges/c905b8cc-cf75-414b-85a3-5765a41eea94" target="_blank" rel="noopener noreferrer">
   <img src="https://images.credly.com/size/220x220/images/130907f0-5b9f-47f3-ba63-073508050096/Computer_Vision_and_and_Image_Processing_Essentials.png" alt="Computer Vision and Image Processing Essentials Certificate" width="100" height="100">
-</a>
+</a><br>
+
 <a href="https://www.credly.com/badges/6ccfcab2-178e-48e1-b557-dcd8c5482067" target="_blank" rel="noopener noreferrer">
   <img src="https://images.credly.com/size/220x220/images/8192dfac-e32b-4570-aebd-cf5eaee0c0d9/ETL_and_Data_Pipelines_with_Shell__Airflow_and_Kafka.png" alt="ETL and Data Pipelines with Shell, Airflow, and Kafka Certificate" width="100" height="100">
 </a>

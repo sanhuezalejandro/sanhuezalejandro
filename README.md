@@ -59,6 +59,9 @@
 <a href="https://www.credly.com/badges/00c665f3-2172-46b7-a215-cbb68714ede9" target="_blank" rel="noopener noreferrer">
   <img src="https://images.credly.com/size/220x220/images/fa8f130a-df8b-4b8a-9611-c3957d57ddce/NoSQL_Databases_Essentials.png" alt="NoSQL Databases Essentials Certificate" width="100" height="100">
 </a>
+<a href="https://www.credly.com/badges/6ad93019-67bd-4a35-b14d-182c5ccdf9d2" target="_blank" rel="noopener noreferrer">
+  <img src="https://images.credly.com/size/220x220/images/779d8ac4-440d-4a92-8735-064960922f56/image.png" alt="Certificate" width="100" height="100">
+</a>
 
 
 

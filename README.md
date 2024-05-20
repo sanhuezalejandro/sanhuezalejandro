@@ -56,6 +56,9 @@
 <a href="https://www.credly.com/badges/13db92ab-d364-4556-ad6f-88b38f126e6d" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/sanhuezalejandro/img/blob/main/relational-database-administration-essentials%20(1).png" alt="New Certificate" width="100" height="100">
 </a>
+<a href="https://www.credly.com/badges/00c665f3-2172-46b7-a215-cbb68714ede9" target="_blank" rel="noopener noreferrer">
+  <img src="https://images.credly.com/size/220x220/images/fa8f130a-df8b-4b8a-9611-c3957d57ddce/NoSQL_Databases_Essentials.png" alt="NoSQL Databases Essentials Certificate" width="100" height="100">
+</a>
 
 
 

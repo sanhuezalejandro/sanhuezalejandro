@@ -47,8 +47,8 @@
 <a href="https://www.credly.com/badges/895e1475-288a-44ee-bd2b-40d666d973ad" target="_blank" rel="noopener noreferrer">
   <img src="https://images.credly.com/size/220x220/images/6be9e507-9096-4e18-aef8-e60893ed36c6/IBM_AI_-Deep_Neural_Networks_with_PyTorch.png" alt="IBM AI - Deep Neural Networks with PyTorch Certificate" width="100" height="100">
 </a>
-<a href="https://www.credly.com/badges/f8786dfa-5f1c-413b-b10a-ddda2fefcfae" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/size/220x220/images/4e2d2e18-e3ea-408d-b815-819bc58b1143/IBM_AI_-Deep_Learning_with_Tensorflow.png" alt="IBM AI - Deep Learning with Tensorflow Certificate" width="100" height="100">
+<a href="https://www.credly.com/badges/6ccfcab2-178e-48e1-b557-dcd8c5482067" target="_blank" rel="noopener noreferrer">
+  <img src="https://images.credly.com/size/220x220/images/8192dfac-e32b-4570-aebd-cf5eaee0c0d9/ETL_and_Data_Pipelines_with_Shell__Airflow_and_Kafka.png" alt="ETL and Data Pipelines with Shell, Airflow, and Kafka Certificate" width="100" height="100">
 </a>
 
 

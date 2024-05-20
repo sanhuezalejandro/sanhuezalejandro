@@ -17,8 +17,8 @@
   </a>
 </div>
 
-<a href="https://linkedin.com/in/sanhuezalejandro" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="sanhuezalejandro" height="30" width="40" /></a>
-</p>
+<!-- <a href="https://linkedin.com/in/sanhuezalejandro" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="sanhuezalejandro" height="30" width="40" /></a>
+</p> -->
 
 <h3 align="left">Skills:</h3>
 <p align="left">

@@ -17,7 +17,7 @@
   </a>
 </div>
 
-<h3 align="left"><img src="https://cdn.worldvectorlogo.com/logos/ibm.svg" alt="ibm" width="20" height="20"> Certificates:</h3>
+<h3 align="left"><img src="https://cdn.worldvectorlogo.com/logos/ibm.svg" alt="ibm" width="40"> Certificates:</h3>
 <p align="left">
   <a href="https://www.credly.com/badges/a860857e-c25d-43a7-b347-95b7282b1454" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 10px;">
     <img src="https://images.credly.com/size/220x220/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png" alt="Data Science Certificate" width="150" height="150">

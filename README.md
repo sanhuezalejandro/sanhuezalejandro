@@ -20,13 +20,13 @@
 <h3 align="left"><img src="https://cdn.worldvectorlogo.com/logos/ibm.svg" alt="ibm" width="40"> Certificates:</h3>
 <p align="left">
   <a href="https://www.credly.com/badges/a860857e-c25d-43a7-b347-95b7282b1454" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 10px;">
-    <img src="https://images.credly.com/size/220x220/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png" alt="Data Science Certificate" width="150" height="150">
+    <img src="https://images.credly.com/size/220x220/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png" alt="Data Science Certificate" width="150" height="150" style="border: none;">
   </a>
   <a href="https://www.credly.com/badges/2476e36e-2295-464b-bb93-2d6d5b0e5c0c" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 10px;">
-    <img src="https://images.credly.com/size/220x220/images/462503e9-d76e-47ce-b82e-1d7df909ba70/Professional_Certificate_-_Data_Analyst.png" alt="Data Analyst Certificate" width="150" height="150">
+    <img src="https://images.credly.com/size/220x220/images/462503e9-d76e-47ce-b82e-1d7df909ba70/Professional_Certificate_-_Data_Analyst.png" alt="Data Analyst Certificate" width="150" height="150" style="border: none;">
   </a>
   <a href="https://www.credly.com/badges/a89fdb96-2c88-4fa5-a617-037f210b4cad" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 10px;">
-    <img src="https://images.credly.com/size/220x220/images/5d33407f-063c-41e1-ab97-79603bd33095/Professional_Certificate_-_AI_Engineering.png" alt="AI Engineering Certificate" width="150" height="150">
+    <img src="https://images.credly.com/size/220x220/images/5d33407f-063c-41e1-ab97-79603bd33095/Professional_Certificate_-_AI_Engineering.png" alt="AI Engineering Certificate" width="150" height="150" style="border: none;">
   </a><br>
 
 <a href="https://www.credly.com/badges/904f1f8e-4d24-4e71-adf6-c6ad32ca08ca" target="_blank" rel="noopener noreferrer">

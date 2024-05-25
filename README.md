@@ -17,6 +17,7 @@
   </a>
 </div>
 
+<img src="https://cdn.worldvectorlogo.com/logos/ibm.svg" alt="ibm" width="20" height="20">
 <h3 align="left">Certificates:</h3>
 <p align="left">
   <a href="https://www.credly.com/badges/a860857e-c25d-43a7-b347-95b7282b1454" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 10px;">

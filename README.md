@@ -51,7 +51,7 @@
   <img src="https://images.credly.com/size/220x220/images/4e2d2e18-e3ea-408d-b815-819bc58b1143/IBM_AI_-Deep_Learning_with_Tensorflow.png" alt="Deep Learning with Tensorflow Certificate" width="100" height="100">
 </a>
 <a href="https://www.credly.com/badges/c905b8cc-cf75-414b-85a3-5765a41eea94" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/size/220x220/images/130907f0-5b9f-47f3-ba63-073508050096/Computer_Vision_and_and_Image_Processing_Essentials.png" alt="Computer Vision and Image Processing Essentials Certificate" width="100" height="100">
+  <img src="https://github.com/sanhuezalejandro/img/blob/main/computervision.png" alt="Computer Vision and Image Processing Essentials Certificate" width="100" height="100">
 </a><br>
 
 <a href="https://www.credly.com/badges/6ccfcab2-178e-48e1-b557-dcd8c5482067" target="_blank" rel="noopener noreferrer">

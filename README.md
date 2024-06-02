@@ -69,7 +69,9 @@
 <a href="https://www.credly.com/badges/29cfbfff-a7df-43a6-864b-3fb863c025b2" target="_blank" rel="noopener noreferrer">
   <img src="https://images.credly.com/size/220x220/images/76326afb-199d-4250-a74f-01bc86dda118/Cognitive_Class_-_Data_Visual_w_Python.png" alt="Data Visualization with Python Certificate" width="100" height="100">
 </a>
-
+<a href="https://www.credly.com/badges/08b39c15-3a8a-4981-ade5-755b973e518a/public_url" target="_blank" rel="noreferrer">
+  <img src="https://images.credly.com/images/dea01098-7cb4-4131-91b3-bb397d1e16a1/image.png" alt="Big Data Spark" width="100" height="100""/>
+</a>
 
 
 
@@ -221,9 +223,6 @@
 </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/> 
-</a>
-<a href="https://www.credly.com" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;">
-  <img src="https://images.credly.com/images/dea01098-7cb4-4131-91b3-bb397d1e16a1/image.png" alt="Credly Badge" style="width: 150px; height: 270px;"/>
 </a>
 
 </p>

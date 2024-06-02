@@ -70,7 +70,7 @@
   <img src="https://images.credly.com/size/220x220/images/76326afb-199d-4250-a74f-01bc86dda118/Cognitive_Class_-_Data_Visual_w_Python.png" alt="Data Visualization with Python Certificate" width="100" height="100">
 </a>
 <a href="https://www.credly.com/badges/08b39c15-3a8a-4981-ade5-755b973e518a/public_url" target="_blank" rel="noreferrer">
-  <img src="https://images.credly.com/images/dea01098-7cb4-4131-91b3-bb397d1e16a1/image.png" alt="Big Data Spark" width="100" height="100""/>
+  <img src="https://github.com/sanhuezalejandro/img/blob/main/BigDataSpark.png" alt="Big Data Spark" width="100" height="100""/>
 </a>
 
 

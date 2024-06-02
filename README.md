@@ -222,6 +222,9 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/> 
 </a>
+<a href="https://www.credly.com" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;">
+  <img src="https://images.credly.com/images/dea01098-7cb4-4131-91b3-bb397d1e16a1/image.png" alt="Credly Badge" style="width: 150px; height: 270px;"/>
+</a>
 
 </p>
 

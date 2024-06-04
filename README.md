@@ -39,7 +39,7 @@
   <img src="https://github.com/sanhuezalejandro/img/blob/main/python_data.png" alt="Python for Data Science and AI Certificate" width="100" height="100">
 </a>
 <a href="https://www.credly.com/badges/e292da91-7dd0-491d-8f4a-27b608548c4b" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/size/220x220/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png" alt="Machine Learning with Python Certificate" width="100" height="100">
+  <img src="https://github.com/sanhuezalejandro/img/blob/main/machine_learning_with_python.png" alt="Machine Learning with Python Certificate" width="100" height="100">
 </a>
 <a href="https://www.credly.com/badges/4832e10e-05a1-4cae-b726-22de9e500343" target="_blank" rel="noopener noreferrer">
   <img src="https://images.credly.com/size/220x220/images/5e544cd5-d368-4f16-8348-5abfd71bd049/IBM_AI_-Deep_Learning_Essentials_with_Keras.png" alt="IBM AI - Deep Learning Essentials with Keras Certificate" width="100" height="100">

@@ -72,7 +72,9 @@
 <a href="https://www.credly.com/badges/08b39c15-3a8a-4981-ade5-755b973e518a/public_url" target="_blank" rel="noreferrer">
   <img src="https://github.com/sanhuezalejandro/img/blob/main/BigDataSpark.png" alt="Big Data Spark" width="100" height="100""/>
 </a>
-
+<a href="https://www.credly.com/badges/59cfcae0-7db1-40a9-8ef0-861830718adb/public_url" target="_blank" rel="noreferrer">
+  <img src="https://github.com/sanhuezalejandro/img/blob/main/ML_Spark.png" alt="Big Data Spark" width="100" height="100""/>
+</a>
 
 
 </p>
@@ -224,6 +226,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/> 
 </a>
+
 
 </p>
 

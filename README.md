@@ -116,13 +116,12 @@
 </a>
 
 <strong>| NoSQL Databases |</strong><br>
-<a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
-  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="cassandra"/> 
-</a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> 
 </a>
-
+<a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="cassandra"/> 
+</a> 
 
 <!-- Big Data Technologies -->
 <strong>| Big Data & ETL Technologies |</strong><br>

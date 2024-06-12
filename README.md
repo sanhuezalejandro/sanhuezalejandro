@@ -67,13 +67,13 @@
   <img src="https://github.com/sanhuezalejandro/img/blob/main/data-warehousing-and-bi-analytics-essentials.png" alt="Certificate" width="100" height="100">
 </a>
 <a href="https://www.credly.com/badges/29cfbfff-a7df-43a6-864b-3fb863c025b2" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/size/220x220/images/76326afb-199d-4250-a74f-01bc86dda118/Cognitive_Class_-_Data_Visual_w_Python.png" alt="Data Visualization with Python Certificate" width="100" height="100">
+  <img src="https://github.com/sanhuezalejandro/img/blob/main/Data%20Visualization%20with%20Python.png" alt="Data Visualization with Python Certificate" width="100" height="100">
 </a>
 <a href="https://www.credly.com/badges/08b39c15-3a8a-4981-ade5-755b973e518a/public_url" target="_blank" rel="noreferrer">
   <img src="https://github.com/sanhuezalejandro/img/blob/main/BigDataSpark.png" alt="Big Data Spark" width="100" height="100""/>
 </a>
 <a href="https://www.credly.com/badges/59cfcae0-7db1-40a9-8ef0-861830718adb/public_url" target="_blank" rel="noreferrer">
-  <img src="https://github.com/sanhuezalejandro/img/blob/main/ML_Spark.png" alt="Big Data Spark" width="100" height="100""/>
+  <img src="https://github.com/sanhuezalejandro/img/blob/main/ML_Spark.png" alt="ML Spark" width="100" height="100""/>
 </a>
 
 

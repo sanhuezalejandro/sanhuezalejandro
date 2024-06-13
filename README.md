@@ -19,6 +19,9 @@
 
 <h3 align="left"><img src="https://cdn.worldvectorlogo.com/logos/ibm.svg" alt="ibm" width="40"> Certificates:</h3>
 <p align="left">
+  <a href="https://www.credly.com/badges/70c3a266-3372-44b0-b534-d6cffe96000e/public_url">
+    <img src="https://github.com/sanhuezalejandro/img/blob/main/data-engineering-professional-certificate.png" alt="Data Engineer Certificate" width="150" height="150" style="border: none;">
+  </a>  
   <a href="https://www.credly.com/badges/a860857e-c25d-43a7-b347-95b7282b1454">
     <img src="https://github.com/sanhuezalejandro/img/blob/main/Data_Science_Certificate.png" alt="Data Science Certificate" width="150" height="150" style="border: none;">
   </a>

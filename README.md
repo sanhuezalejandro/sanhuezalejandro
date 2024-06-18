@@ -80,7 +80,9 @@
 <a href="https://www.credly.com/badges/59cfcae0-7db1-40a9-8ef0-861830718adb/public_url" target="_blank" rel="noreferrer">
   <img src="https://github.com/sanhuezalejandro/img/blob/main/ML_Spark.png" alt="ML Spark" width="100" height="100""/>
 </a>
-
+<a href="https://www.credly.com/badges/2a404c39-2df2-4dff-bbe7-c4a0fc9a9f96" target="_blank" rel="noreferrer">
+  <img src="https://github.com/sanhuezalejandro/img/blob/main/Generative_AI_for_Data_Engineering.png" alt="Gen AI Data Engineering" width="100" height="100""/>
+</a>
 
 </p>
 

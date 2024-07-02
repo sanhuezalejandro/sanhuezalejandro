@@ -195,19 +195,19 @@
 <!-- Data Visualization -->
 <strong>| Data Visualization |</strong><br>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/> 
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" height="20" alt="Matplotlib"/> 
 </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn"/> 
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" height="20" alt="seaborn"/> 
 </a>
 <a href="https://plotly.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/> 
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="20" alt="Plotly"/> 
 </a>
 <a href="https://plotly.com/dash/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Dash-3E4E88?style=for-the-badge&logo=plotly&logoColor=white" alt="Dash"/>
+  <img src="https://img.shields.io/badge/Dash-3E4E88?style=for-the-badge&logo=plotly&logoColor=white" height="20" alt="Dash"/>
 </a>
 <a href="https://www.streamlit.io/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/> 
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="20" alt="Streamlit"/> 
 </a>
 <!-- Other Tools -->
 <strong>| Other Tools |</strong><br>

@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/sanhuezalejandro/img/blob/main/github_banner.png)
+![MasterHead](https://github.com/sanhuezalejandro/img/blob/main/banner.png)
 <body>
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alejandro+Sanhueza!;a+data+enthusiast!;from+Santiago+Chile🇨🇱;" />

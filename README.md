@@ -212,22 +212,22 @@
 <!-- Other Tools -->
 <strong>| Other Tools |</strong><br>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="20" alt="docker"/> 
 </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="20" alt="FastAPI"/>
 </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/> 
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="20" alt="flask"/> 
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="20" alt="git"/> 
 </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="20" alt="linux"/> 
 </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/> 
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="20" alt="Jira"/> 
 </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="20" alt="Bash"/> 

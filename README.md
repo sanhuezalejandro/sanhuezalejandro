@@ -157,40 +157,40 @@
 <!-- Machine Learning & Data Science -->
 <strong>| Machine Learning & Data Science |</strong><br>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/> 
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="20" alt="pandas"/> 
 </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="20" alt="NumPy"/>
 </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="20" alt="Jupyter"/>
 </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> 
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="20" alt="scikit_learn"/> 
 </a>
 <a href="https://keras.io/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="20" alt="Keras"/>
 </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/> 
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="20" alt="pytorch"/> 
 </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/> 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="20" alt="tensorflow"/> 
 </a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv"/> 
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="20" alt="opencv"/> 
 </a>
 
 <!-- Business Intelligence (BI) -->
 <strong>| Business Intelligence (BI) |</strong><br>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI"/> 
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" height="20" alt="Power BI"/> 
 </a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/> 
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="20" alt="Tableau"/> 
 </a>
 <a href="https://looker.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
-  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker"/> 
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" height="20" alt="Looker"/> 
 </a>
 <!-- Data Visualization -->
 <strong>| Data Visualization |</strong><br>

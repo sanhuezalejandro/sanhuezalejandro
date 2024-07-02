@@ -229,8 +229,8 @@
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/> 
 </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 5px;"> 
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;"> 
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="10" alt="Bash"/> 
 </a>
 
 

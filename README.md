@@ -1,7 +1,7 @@
    <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alejandro+Sanhueza;a+data+enthusiast!;from+Santiago+Chile+🇨🇱;" />
   </h1>
-![MasterHead](https://github.com/sanhuezalejandro/img/blob/main/banner.png)
+<img src=https://github.com/sanhuezalejandro/img/blob/main/banner.png>
 <body>
   <div class="center">
     <img alt="coding" width="278" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBlZ2V6MjJ5azRtYm9qMHVmd2M0cDVydjZzZzFsNDg1a2U5aWY1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7c8QeB0VMddFOuu4iR/giphy.gif">

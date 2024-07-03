@@ -1,14 +1,13 @@
 ![MasterHead](https://github.com/sanhuezalejandro/img/blob/main/banner.png)
 <body>
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alejandro+Sanhueza;a+data+enthusiast!;from+Santiago+Chile+🇨🇱;" />
-  </h1>
-  
   <div class="center">
     <img alt="coding" width="278" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBlZ2V6MjJ5azRtYm9qMHVmd2M0cDVydjZzZzFsNDg1a2U5aWY1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7c8QeB0VMddFOuu4iR/giphy.gif">
     <img alt="giphy" width="278" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWg4MzhxaDU5bXR5YzB5eDN5NXRzZW01Y2Z2bmdlMHZ5ZGg4a2VsbSZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif">
     <img alt="third-gif" width="278" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnExaHp5MDFzbnVxNmh6d3k5OGdpcDRzNm03NHoxMm5kY3l1bGxrcSZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif">
   </div>
+   <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alejandro+Sanhueza;a+data+enthusiast!;from+Santiago+Chile+🇨🇱;" />
+  </h1>
 </body>
 
 <h3 align="left">Connect with me:</h3>
